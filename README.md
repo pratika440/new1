@@ -1,2 +1,2 @@
 # new1
-new1 repo
+new1 repo for demonstration
